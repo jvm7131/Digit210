@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc></desc>
+    <g alignment-baseline="baseline"></g>
+    
+    <svg > 
+        <rect x="50" y="20" width="30" height="250" fill="green" />  
+    </svg>
+    
+    <circle cx="650" cy="70" r="50" fill="blue" stroke="black"/>
+    <svg height="720" width="500" >
+        <polygon points="100,10 150,190 50,190" fill="purple" />
+    </svg>
+    <svg height="140" width="500" >
+        <ellipse rx="90" ry="100" cx="20" cy="10"
+            style="fill:orange;stroke:cyan;stroke-width:8" />
+    </svg>
+    <line x1="25" y1="300" x2="700" y2="300" stroke="purple" stroke-width="20"/>
+    
+
+</svg>
