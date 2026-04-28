@@ -1,0 +1,1955 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml xmlns:ixml="http://invisiblexml.org/NS" ixml:state="ambiguous">
+    <dialogue>
+        <name>Diplomat</name>
+        <speech>How much longer to the embassy?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Driver</name>
+        <speech>I believe it'll be around minutes, sir.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Driver</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Driver</name>
+        <speech>The brake's not working.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Diplomat</name>
+        <speech>Hey, you! Up front! Look up front!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Member A</name>
+        <speech>One of our diplomats perished in a car accident in Ostania.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Member A</name>
+        <speech>But we believe it to be an assassination by the East's far-right political
+            party.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Member A</name>
+        <speech>They are plotting a w*r against our nation of Westalis.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Member A</name>
+        <speech>We must do everything we can to figure out their plan.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Member B</name>
+        <speech>Let's let him take care of it.</speech>
+    </dialogue>
+    <narration>The best agent we have.</narration>
+    <narration>"Twilight."</narration>
+    <narration>Here's the goods I promised.</narration>
+    <narration>Proof that the foreign minister wears a toupee.</narration>
+    <narration>I even have the negatives.</narration>
+    <dialogue>
+        <name>Fake Edgar</name>
+        <speech>Well done.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Edgar</name>
+        <speech>Now we can force him to resign.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Edgar</name>
+        <speech>I look forward to doing business with you again.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Hey.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>How about you hand over the goods now?</speech>
+    </dialogue>
+    <narration>Huh? Wha—But you just—</narration>
+    <narration>He got me!</narration>
+    <dialogue>
+        <name>Narrator</name>
+        <speech>Code name: Twilight.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narrator</name>
+        <speech>A spy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narrator</name>
+        <speech>In an era in which the nations of the world were waging a fierce w*r</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narrator</name>
+        <speech>of information just out of sight,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narrator</name>
+        <speech>this man survived that b*ttlefield by being</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narrator</name>
+        <speech>a master of disguise, a man with a hundred faces.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Karen</name>
+        <speech>So Daddy's been in such a bad mood lately because someone</speech>
+    </dialogue>
+    <dialogue>
+        <name>Karen</name>
+        <speech>stole his toupee pictures, or something.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Karen</name>
+        <speech>What even? Ugh, I'm so mad.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Karen</name>
+        <speech>Hello? Are you even listening, Robert?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>Hm? Yes, that's rather unfortunate.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Karen</name>
+        <speech>So, Robert... Do you think one day we'll also—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>Karen, let's break up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Karen</name>
+        <speech>What?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>I'm afraid I can't sense any intelligence in your conversations.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>Farewell. May you find happiness.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Karen</name>
+        <speech>Hey, Robert! Wait! You can't just do that to me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Karen</name>
+        <speech>Robert!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>Sorry, Karen, but I have no further use for your family.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>As of tonight, I'm also done withthe mask known as Robert.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>Marriage? Conventional happiness?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>I got rid of those aspirations, as well as my identity, the day I became a
+            spy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Contact</name>
+        <speech>Meow.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>Must be Cipher C.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Train Announcer</name>
+        <speech>The train bound for Berlint is now departing from track .</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>Good day, or perhaps, good evening, Twilight.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>Well done on your last mission.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>Thanks to you, the minister lived another day, to the great benefit of our
+            country.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>Now, then, I have your next mission.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>Your target is the leader of the National Unity Party, Donovan Desmond.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>He is a great threat to the truce between the East and the West.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>Your mission is to get close to him and probe any seditious activities.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>In order to achieve this,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>you will get married and have a child.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>Sorry, what?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>Desmond is an extremely cautious man who rarely appears in public.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>He only appears at social gatherings held at the elite private school his son
+            attends.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>These events are informal get-togethers for the upper echelon of industrial and
+            political leaders.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>You will have your child enroll in this school</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>and infiltrate one of the social gatherings.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>The enrollment deadline is drawing near, meaning you have one week to pull this
+            off.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>You expect me to produce a child within seven days?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>Please excuse me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>Operation Strix.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>This operation is the key to maintaining peace between East and West...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>and perhaps, the world.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>Hero who casts no shadow,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>the great deeds you and your fellow agents do shall never see the light of
+            day.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>You will never earn any medals nor make it into the papers.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>Even so...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>Never forget that everyone else's day-to-day lives are possible</speech>
+    </dialogue>
+    <dialogue>
+        <name>Chief</name>
+        <speech>because of your blood, sweat, and tears.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>Very well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>I abandoned my identity when I became Twilight.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>I will play the part of a father with a child if I must,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Twilight</name>
+        <speech>for the sake of a better world.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Sign</name>
+        <speech>OPERATION STRIX</speech>
+    </dialogue>
+    <dialogue>
+        <name>Real estate agent</name>
+        <speech>This is one of our single-family apartments.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Real estate agent</name>
+        <speech>The unit comes furnished, includes central air conditioning and heating,
+            and...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Real estate agent</name>
+        <speech>Um... Sir?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>No wiretaps detected, and there are securable escape routes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'll take it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Real estate agent</name>
+        <speech>Excellent, Mr. Forger. Now, if you'd sign these documents...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Loid Forger. Occupation: psychiatrist.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>That's my new life.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>With a family I love and a happy home life...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Real estate agent</name>
+        <speech>How nice that you and your family are moving into a new home.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Real estate agent</name>
+        <speech>Do you have a boy or a girl?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Ah, well...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'll be deciding on that soon.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Real estate agent</name>
+        <speech>Huh?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>What an absolute burden for a spy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Orphanage Director</name>
+        <speech>Huh? You wanna adopt?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Indeed. I heard that your orphanage was looking for candidates.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>You see, my wife and I—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Orphanage Director</name>
+        <speech>Yeah, sure. Take whichever one you want.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Orphanage Director</name>
+        <speech>Come on in.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>What a terrible environment.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>But the shadier the establishment,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>the more likely these children have complicated pasts,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>so it'll be easier to alter their stories.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I can make this mission work if I have a child.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I would've preferred to handle it all on my own,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>but I can't exactly disguise myself as a child,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>no matter how skilled a spy I am.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Pardon me. If possible, I'd like a child who can read and write.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Orphanage Director</name>
+        <speech>Well, in that case...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Orphanage director</name>
+        <speech>Hey, Anya.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Orphanage Director</name>
+        <speech>She's the smartest one we've got.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Orphanage Director</name>
+        <speech>She don't talk much, but she's a good kid.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Orphanage Director</name>
+        <speech>She's a creepy, disgusting little brat.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Orphanage Director</name>
+        <speech>I'd be thrilled to get her outta my hair.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Orphanage Director</name>
+        <speech>Go on. Say hello.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Er... Pardon me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>If I recall, the earliest age students can enter Eden College is six.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>She definitely looks no older than four or five.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Six.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I'm six!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Orphanage Director</name>
+        <speech>You're six years old?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>But she's so small...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Hm? The paper?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>A crossword puzzle?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>That's probably too difficult for a child.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Of course, for myself, it's mere child's play.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>One down is "homeostasis."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>One across is "causal closure."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>The one below that is "symplectomorphism."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>She completed it? Seriously?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Such unbelievable intellect.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>She should have no problem passing the entrance exam.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'll take her.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>As for the paperwork...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Orphanage Director</name>
+        <speech>Don't worry about that. Just take her already.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>My mission to end up with a child is a success.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Everything's going so well that it's making me nervous.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Are you okay with this?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>A spy... mission...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>So exciting!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narrator</name>
+        <speech>This little girl happened to be a telepath.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narrator</name>
+        <speech>Test Subject .</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narrator</name>
+        <speech>She possessed the ability to read people's minds.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narrator</name>
+        <speech>She was unintentionally created in an experiment by a certain organization,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narrator</name>
+        <speech>and she later fled their facility.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Narrator</name>
+        <speech>She has been wandering around looking for someone to take care of her.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Now, listen, little girl.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Anya.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Now, listen, Anya.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Starting today, you will be my daughter,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>but if anyone asks, you've always been my daughter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Got it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Yep.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Make sure you address me as "Father."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Very well.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Neighbor</name>
+        <speech>Well, aren't you a cute little girl? Hello there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>We're the Forgers. We just moved in today.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I am Anya. I have been Papa's child for a very long time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>That wasn't necessary.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Come on, let's go inside.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>This is Anya's house?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Yes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>A TV!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Go ahead and turn it on.</speech>
+    </dialogue>
+    <dialogue>
+        <name>TV Announcer</name>
+        <speech>Spy Wars, an adventure cartoon!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I like this show.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Of all things...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bondman</name>
+        <speech>A g*n with a sil*ncer?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>So exciting.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bondman</name>
+        <speech>You're a professional!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>First, I'll have to gather everything we'll need.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bondman</name>
+        <speech>I will be taking back that b*mb.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>And I'll have to forge an ID for her.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bondman</name>
+        <speech>Anyone who gets in my way will regret it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'm going out for a bit.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Just sit there and watch your show.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Bondman</name>
+        <speech>Out of my way!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>An adventure!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'm not going on an adventure. I'm just going shopping.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I want a p*stol with a sil*ncer!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Sure. Maybe if we can find one on sale.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>To be a master spy,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>one must act normal and never draw attention to themselves.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>We must do everything we can to look like an ordinary family.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa! Save me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Must you draw attention to yourself?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old Lady</name>
+        <speech>Now, now. You need to make sure you hold the little one's hand.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Old Lady</name>
+        <speech>Here.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Having one hand tied up will make it difficult to prepare for an enemy
+            ambush,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>but no matter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>An enemy?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>What are you doing?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Hiding!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Did I do anything to make her want to hide from me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Perhaps I held her hand too early. Does she hate me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>This isn't good.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I need to maintain a good relationship with her until the end of this
+            mission.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I must know more about this creature.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>It's basic diplomacy. Understanding the other party is the first step toward
+            peace.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Understanding me will lead to world peace?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I like peanuts.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>And I don't like carrots.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Uh-huh...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>But I really like crispy bacon from bakenries!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>That's a "bakery." They do not sell bacon.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I'd like this, please.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>That costs one dalc. You can't buy it with a ten-pent coin.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Is this girl actually stupid?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Was the crossword puzzle a fluke?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Maybe I can still go back and get another child—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Pwease don't get rid of me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>What's gotten into you?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Passerby</name>
+        <speech>What a terrible parent.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Pwease! I'm a good bargain!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>What do I do?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'll buy you some peanuts! Just stop crying!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Peanuts!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa, I'm tired.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Can't walk anymore...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>What?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>This isn't working... I just don't understand</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>this irrational behavior.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I need some manuals to help me understand it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>"The key to raising a child is trust."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>"Rather than scolding them, try tounderstand things from their
+            perspective."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>"Children are not very good at putting how they're feeling into words,</speech>
+    </dialogue>
+    <dialogue>
+        <name>sign___CHILDREARING,Sign</name>
+        <speech>CHILDREARING</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>so try to understand them more."So no interrogating them, then?</speech>
+    </dialogue>
+    <dialogue>
+        <name>sign___CHILDREARING,Sign</name>
+        <speech>CHILDCARE</speech>
+    </dialogue>
+    <dialogue>
+        <name>sign___CHILDREARING,Sign</name>
+        <speech>CHILDREARING</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Do the parents of the world</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>normally carry out such difficult missions all the time?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>"Nurture their self-esteem to give them a better future."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>"By giving them the ability to think for themselves, their future..."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>As soon as I'm done with this mission, I'm sending her back to the
+            orphanage.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>That's the extent of our relationship.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Don't wanna!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I don't wanna study!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I need to know how smart you are for this exam.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I don't need to study to do any tests.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>If I just read other people's...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>...people's minds...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Are you planning on cheating? Listen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>If you don't get into this school...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>...my mission fails.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Fine, then.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'm heading out.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>You're not coming with me today.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>No matter what.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>You're staying home.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Hey!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I told you, you're not coming!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>You there! Do you really think I don't see you?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>There!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>There!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa is so good at finding me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>It's so much fun!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Try and get out of that!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>So that's why you're late?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>In the end, I put up a barricade in front of the door and trapped her
+            inside.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>I'm praying that you don't get reported for child abuse.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Who knows what children are thinking?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Their method of always crying to get their way is truly annoying.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>Hate to tell you this, Twilight, but crying is their job.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>More importantly, here's what you asked for.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>An application, ticket for the exam, and exam questions.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>I went through hell getting these for you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Thanks, Franky.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I think we can make things work if we have her memorize everything.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>Oh, yeah. About your daughter...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>I dug up some records on her past that the orphanage didn't have.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>I couldn't find anything about her birth.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>No info on her age or parents, either.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>I could only find information from the last year,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>but she's been adopted four times and returned each time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>She's also been to two other orphanages.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>"Anya Williams, Anya Levski, Anya Roche"...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>She changes names as much as you do.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>You guys are perfect for each other.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>Hey, I'm kidding. This is for your mission, right?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>She may be a kid, but no good's gonna come out of getting too attached.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Thanks for the concern.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>Hello? Where's my money?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Franky</name>
+        <speech>Damn it... Who knows what spies are thinking, either?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I'm so bored. Spies aren't like what I thought.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I just want to get the b*mb back.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I can't have her messing with my spy equipment, so I'll lock it up.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>The code is , ...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>..., .</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Bomby-bombs! Bomby-bombs!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Bomby-bombs! Bomby-bombs!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Ooh!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Secret messages!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Secrets, secrets...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman A</name>
+        <speech>Boss! We've intercepted a new message.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Is it using the West's cipher?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman A</name>
+        <speech>No, it's just plain text.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman A</name>
+        <speech>It says... "Twilight here"...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman A</name>
+        <speech>Twilight here!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman A</name>
+        <speech>This is the frequency used by Western intelligence.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman A</name>
+        <speech>Oh, there's more. "Catch me if you can"...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Hurry up and pinpoint where it's coming from!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Whew...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Now that you've found out I'm a spy, you'll have to disappear.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>If he finds out I'm a telepath...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I'll have to leave.</speech>
+    </dialogue>
+    <dialogue>
+        <name>flashback Researcher A</name>
+        <speech>Anya, you mustn't tell anyone about your power.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Researcher B</name>
+        <speech>It's time to study now, Anya.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>But I wanna draw...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Researcher A</name>
+        <speech>Don't bother with childish games.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Researcher A</name>
+        <speech>We must use your power for the sake of world peace.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Researcher A</name>
+        <speech>There's no time for tears, either.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Researcher A</name>
+        <speech>Now, enough playing. Back to studying.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>She'd better not have messed up the apartment.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Oh, right. I need to move this.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Who the hell are these guys?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Anya!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Anya!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>She's been kidnapped?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>By whoever sent these thugs? But why?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I need to find her immediately. Calm down.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>From the looks of it, I've been compromised.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I need to get to safety immediately.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>As for Anya...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>There are plenty of other children out there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'll start things over from square one and—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>So who the hell is this kid?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Could she be Twilight's?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman B</name>
+        <speech>No idea. She was in the room where the message came from,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman B</name>
+        <speech>so we snatched her just in case.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Because of the transmission?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman B</name>
+        <speech>She was holed up inside the apartment with a barricade out front.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Why out front?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman B</name>
+        <speech>Beats me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Well, no matter. We might be able to use her as a hostage</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>in order to force Twilight to steal the toupee</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>off of the foreign minister's head personally.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman D</name>
+        <speech>Boss, I think we should just give up on the toupee.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Transparency is essential in government.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Toupees are a no-go.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>A p*stol with a sil*ncer...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Also, the minister's a traitor who's been secretly backing the West.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Anyone who advocates for a traitor is also a traitor.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>A real bad guy...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman G</name>
+        <speech>Boss! Nguyen and his guys are back from the apartment!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>We captured him.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Well done.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>Those weren't the moves of an amateur. He's the real deal.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman E</name>
+        <speech>Go rest over there.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Now then, Twilight...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Let's have you return the photographs you stole from me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Nguyen!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman E</name>
+        <speech>What's going on?! He was just—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman C</name>
+        <speech>The kid's gone!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>He got me again!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>This was a mistake.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I risked everything by waltzing right into enemy territory.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'm a failure as a spy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Pabwaaaaaah!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>Look, you're okay. I won't do anything.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>You don't have to be scared.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Pabwaaaaaah!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>This is exactly why kids suck.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I think I figured out why I hate the sound of kids crying so much.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Because I end up remembering my own childhood.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>No one reached out their hand to save me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I felt alone, in despair, and so powerless that all I could do was cry.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I thought I'd abandoned that past, but on a subconscious level,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>she was reminding me of me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>No, actually...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>Listen up, little girl.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Anya.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>Listen up, Anya.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>Me and my friends are pro tag players.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>Whenever we spot someone with potential, we immediately challenge them to a
+            game.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Oh.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa is a liar.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>Now, listen.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>If you go straight down this street and turn right,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>you'll find a police station.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>If you can get this to a police officer, you win the game.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Fake Nguyen</name>
+        <speech>Got it?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>If you show them this, they'll put you in a better orphanage.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'm not going to involve a kid in this mission.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'll figure something out and rework the plan.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Pa—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>All right, go! Hurry!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'm a failure as a spy? No.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>My mistake was putting that little girl in danger to begin with.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>How could I forget?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>To create a world where children won't have to cry...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>That's why I became a spy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman B</name>
+        <speech>Don't let that b*stard get away!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman E</name>
+        <speech>We're gonna drag him out here and expose his face to—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman B</name>
+        <speech>A trap? When did he—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman E</name>
+        <speech>What is this? Flour?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman C</name>
+        <speech>T-Twilight?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Henchman B</name>
+        <speech>Don't shoot! This whole place will blow!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Wha—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>You've gotta be sh1tting me.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Turn around, and I'll k*ll you.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Twilight...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Good day, or perhaps, good evening, Edgar.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>How's Karen doing?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>How do you know my daughter's name?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Of course I know. That's what spies do.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I know her height, weight, shoe size,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>her favorite foods, even how many moles are on her body.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Though it's nothing compared to your record, I know of her criminal activity,
+            too.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Edgar</name>
+        <speech>Absurd! My daughter would never—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Edgar.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I also know how much you care about your daughter.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>So listen carefully.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>If you wish for her to have any semblance of a normal life,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>you'll leave me the hell alone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>If you understand, go home right now.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Anya!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>What are you—I mean,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>what are you doing outside the house?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I, uh, just happened to come here to shop,</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>but I guess they went out of business.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa is a huge liar.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I was playing tag with some old guys.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Oh, I see. Did you have fun?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>It was a little scary.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I wanna go home.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>To our home, Papa.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Are you sure?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>If you leave me behind, I'm going to cry.</speech>
+    </dialogue>
+    <dialogue>
+        <name>flashback Franky</name>
+        <speech>She's been adopted four times and returned each time.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Anya Williams... Anya Levski...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Anya Roche.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I see.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Well, let's go home, then.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>But that apartment is far too dangerous, so let's move.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I spotted a poisonous snake there yesterday.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I don't like snakes.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa is a huge liar...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>But he's such a cool liar.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I wanna live in a castle.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>We'll see if one's listed.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Once we get to our new home, you've got to study.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Gwak!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>This time, you just have to memorize all the answers.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>It'll be easy.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Invigilator</name>
+        <speech>All right, begin!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I'm counting on you, Anya.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>You can do it.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Child B</name>
+        <speech>This is so hard!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Child C</name>
+        <speech>I don't know any of these answers!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Child D</name>
+        <speech>Um... eeny, meeny, miny, moe...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Child E</name>
+        <speech>Mommy...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>K-...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>K-...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>It's there! You passed!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>You did it!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Did I do a good job?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>You bet you did!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>You—</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I relaxed for a second and all my pent-up exhaustion hit me at once.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa! Don't leave me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I... relaxed?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa! You're going to make me cry!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I promise to be a good girl!Just come back to me!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>What the hell is going on with me?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa died.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mailman</name>
+        <speech>I've got some mail for you!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mailman</name>
+        <speech>Is this the Forger residence?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>I'm Anya Forger.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mailman</name>
+        <speech>Could you give this to your mommy or daddy?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>My mama doesn't exist.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Mailman</name>
+        <speech>Oh, really? I'm sorry...</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Papa! The mailman came.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>What do you think you're doing?! Are you trying to k*ll me?!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>I actually fell asleep in front of someone.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>Unacceptable. I need to get a grip.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>Mail!</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>It's a letter from Eden College.</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>What's the matter, Papa?</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>"The second phase of the admission process is a family interview."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>"It is mandatory that the applicant attend with both parents."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Loid</name>
+        <speech>"Absolutely no exceptions."</speech>
+    </dialogue>
+    <dialogue>
+        <name>Anya</name>
+        <speech>But Mama doesn't exist.</speech>
+    </dialogue>
+    <narration>SECURE A WIFE</narration>
+</xml>

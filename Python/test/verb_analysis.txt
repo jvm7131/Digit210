@@ -1,0 +1,35 @@
+=== Top 15 Most Frequent (Likely Ambiguous) Verbs ===
+
+Corpus s1:
+is: 40
+do: 39
+'s: 37
+are: 26
+have: 26
+'m: 24
+be: 17
+i: 17
+get: 15
+was: 13
+'re: 12
+been: 10
+go: 10
+need: 10
+got: 9
+
+Corpus s2:
+is: 35
+'s: 32
+do: 22
+have: 19
+i: 17
+'m: 14
+go: 14
+'re: 14
+was: 12
+are: 11
+be: 8
+want: 6
+make: 6
+tell: 5
+'ve: 5
