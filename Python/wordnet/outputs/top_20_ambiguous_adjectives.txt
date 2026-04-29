@@ -1,0 +1,22 @@
+Top 20 Most Ambiguous Adjectives
+
+right | lemma: right | synsets: 36
+good | lemma: good | synsets: 27
+square | lemma: square | synsets: 25
+hard | lemma: hard | synsets: 22
+key | lemma: key | synsets: 21
+last | lemma: last | synsets: 21
+bored | lemma: bore | synsets: 19
+bad | lemma: bad | synsets: 17
+first | lemma: first | synsets: 16
+easy | lemma: easy | synsets: 15
+second | lemma: second | synsets: 15
+secret | lemma: secret | synsets: 14
+front | lemma: front | synsets: 13
+real | lemma: real | synsets: 13
+small | lemma: small | synsets: 13
+long | lemma: long | synsets: 12
+new | lemma: new | synsets: 12
+trust | lemma: trust | synsets: 12
+cool | lemma: cool | synsets: 11
+late | lemma: late | synsets: 11
